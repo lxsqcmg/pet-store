@@ -1,7 +1,7 @@
 {
   "openapi": "3.0.1",
   "info": {
-    "title": "Medusa API",
+    "title": "Pet Store",
     "description": "",
     "version": "1.0.0"
   },
