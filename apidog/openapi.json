@@ -66390,7 +66390,13 @@
           "gender": {
             "type": "string",
             "title": "Gender",
-            "description": "User's gender information"
+            "description": "User's gender information",
+            "enum": [
+              "male",
+              "female",
+              "other",
+              "prefer not to say"
+            ]
           },
           "username": {
             "type": "string",
