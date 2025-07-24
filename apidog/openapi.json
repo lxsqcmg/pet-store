@@ -10747,9 +10747,9 @@
             "in": "path",
             "description": "The ID of the Order.",
             "required": true,
-            "example": "",
+            "example": 0,
             "schema": {
-              "type": "string"
+              "type": "integer"
             }
           },
           {
